@@ -2,7 +2,7 @@
   "name": "sunny-ocean",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite --port 4317",
+    "dev": "vite --port 4317 --host 127.0.0.1",
     "build": "vite build",
     "preview": "vite preview --port 4317"
   },
